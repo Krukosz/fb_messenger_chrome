@@ -1,0 +1,1 @@
+start chrome.exe --chrome-frame --user-data-dir="%tmp%\chrome_messenger" --window-size=800,600 --app=https://messenger.com
